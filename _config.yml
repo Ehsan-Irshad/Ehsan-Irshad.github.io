@@ -1,0 +1,143 @@
+# Site settings
+title: Ehsan Irshad
+twitter_username: ehsanirshad
+name: Ehsan Irshad
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/ehsanirshad
+
+#Any buzzword skills you want to include
+skills:
+ - C/C++
+ - STL
+ - Microservices
+ - Distributed Computing / Storage
+ - API design (REST FUL)
+ - Kafka
+ - Gradle
+ - Java
+ - SQL
+ - REST
+ - Technical Architecture
+ - Machine learning
+
+#Work experience is required
+roles:
+ - title: Architect
+   start: 2019
+   end: Ongoing
+   employer: IBM
+   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+ - title: Scrum Lead
+   start: 2015
+   end: 2019
+   employer: IBM
+   description: Team of 14 engineers
+ - title: Staff Software Engineer
+   start: 2014
+   end: 2015
+   employer: IBM
+   description: Test
+ - title: Associate Manager
+   start: 2005
+   end: 2012
+   employer: Accenture
+   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+
+#Education is required
+education:
+ - level: Bachelor of Computer Science (B.Sc.)
+   date: 2005
+   subject: Artificial Intelligence and Computer Science
+   school: FAST NUCES (National University of Computer& Emerging Sciences Pakistan
+
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   courses:
+    - title: Functional Programming Principles in Scala
+      link: https://www.coursera.org/course/progfun
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: September 16, 2013
+    - title: Algorithms Design and Analysis, Part 1
+      link: https://www.coursera.org/specializations/algorithms
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      date: April 28, 2014
+
+#This section is optional - embeds slideshows from speakerdeck
+# to get the speakerdeck ID copy the embed code and look for the data-it attribute
+speakerdeck:
+   profileurl: https://speakerdeck.com/robhinds
+   talks:
+    - title: Product Management for Engineers
+      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
+      conference: API Conference, Berlin 2018
+    - title: Agile Machine Learning - from Theory to Production
+      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
+      conference: W-JAX Conference, Munich 2017 (London 2017)
+
+intro: |
+14 years of global experience in software development with focus on solution architecture & design.
+Mentored team of 14 engineers in Singapore & India. Liaised with cross functional team of over 100 engineers, spread across Singapore, USA, Europe, India & Egypt to ensure architecture consistency.
+Recently developed & supported  IaaS platform to automate server lifecycle across 200 key accounts with over 65,000 live servers across all GEOs. Reduced 70% of the workforce.
+Provided technical mentoring to users in Europe & Mexico  on behalf of IBM Singapore & Thales.
+Masters degree in machine learning & AI from NUS.
+Expert in automated compliance & asset security (ITCS, HIPAA, CSD, CIS, SCAP)
+Built team APPSCAN / Security, OWASP Top 10
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   AStar i2r, Singapore (1.5 years) – Software Design Engineer	
+3DFM (A-Star i2r, 2011) 
+Project: https://www.a-star.edu.sg/Portals/76/3D%20FACE%20RECONSTRUCTION.pdf 
+AStar is the leading research organization in Singapore with researchers from all across the world. This job was driven by my RA Ship for three months at NTU, Singapore. It takes one picture of subject and converts it into full 3D Model.
+Responsibilities:
+	Design, Development, Optimization
+	Managed the team of 3 people, including a researcher.
+	Development of iOS application
+	Implemented Number of Image processing & Neural network techniques
+Technologies:
+	C++, Objective C, STL, Multithreading, 
+	OpenGL, OpenGL ES, Open Scene Graph, GLSL,
+	MATLAB, SVN
+
+
+Enggsol, Singapore (2 years) – Software Design Engineer	
+Ultra Eye (Enggsol, 2008 - 2010) 
+Client: https://www.dacon-inspection.com
+Technology: C++, STL, MFC, OpenGL, Ultrasound, Multi-Threading, Indexing 
+Responsibilities: Client Communication, Requirement gathering, Design, Development, Support
+This software interprets the Ultra Sound data coming from a hardware unit. This application was developed to detect the possible defects in the Oil/Gas pipelines. Software represented the data in A-Scan, B-Scan (2-D) & 3D. It highlights the possible defects also, if missed by Human eye. A normal data file software use to handle consists 1GB to 3GB data. 
+
+
+RM-Reach (Enggsol, 2008 - 2009) 
+Project / Client: http://www.infinitytxt.com/aboutus.html, SUBWAY, BBC, GNC
+Technology: GSM, C++, JNI, Java, Web, SQL Server, Hibernate, Struts for MVC.
+Responsibilities: Design, Research & Development
+This software was responsible to send Bulk SMS/Emails as well as interactive. This application is running no of campaigns including SUBWAY promotional campaigns. High queuing and scheduling algorithm was written to send out 100,000 SMS per day.
+
+
+Systems, Pakistan (3 years) – Software Engineer	
+Orthobyte (Systems, 2006 - 2008) 
+Project / Client: http://ortho-byte.com
+Technology: MFC, OpenGL, MS Access, STL.
+Responsibilities: On-shore Communication, Design, Development
+In this project we have developed dental alignment & articulation. The project involved research and new algorithm development in the area of collision detection and 3D/visual data compression. 
+
+
+Other Projects & Products	
+❖	RA Project (NTU, 2010)
+This project was purely Image processing of CT-Scan images given by the Singapore General Hospital. The aim was to calculate the percentage of FAT is one’s body. The full body Images were processed. In Earlier stages MATLAB was used, but for final release the whole code base was shifted into C\C++ for better performance.
+Advisor: Dr. Vitali Z.
+
+❖	Community INTELLIGENCE (Thomson Reuters, 2010)
+Client: https://www.thomsonreuters.com/en.html
+Technology: C#,  ASP.NET, WPF, MS SQL Server, ETL & Warehousing.
+Responsibilities: Design, Development
+This software was used to give trend analysis for Business Intelligence, Trade Flow and Buy/Sell side community management. The data came from 10 different sources. The web solution is responsible to show the Buy/Sell side communities, total trades in between them. Live chat room analysis, effects of story on a trade, commodities and different communities and Individual presence on all different Thomson Reuters platform. A special connection finder is being developed to show the degree of separation.
