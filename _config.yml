@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Ehsan Irshad
+twitter_username: ehsanirshad
+name: Ehsan Irshad
 
 # Build settings
 markdown: kramdown
@@ -22,17 +22,14 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
+ - C/C++
+ - STL
  - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
+ - Distributed Computing / Storage
+ - API design (REST FUL)
+ - Kafka
  - Gradle
  - Java
- - JPA
  - SQL
  - REST
  - Technical Architecture
@@ -43,21 +40,21 @@ blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Architect
+   start: 2019
    end: Ongoing
-   employer: Basement Crowd
+   employer: IBM
    description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
+ - title: Scrum Lead
+   start: 2015
+   end: 2019
+   employer: IBM
+   description: Team of 14 engineers
+ - title: Staff Software Engineer
+   start: 2014
+   end: 2015
+   employer: IBM
+   description: Test
  - title: Associate Manager
    start: 2005
    end: 2012
