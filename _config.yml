@@ -67,14 +67,3 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: | 
   AStar is the leading research organization in Singapore with researchers from all across the world. This job was driven by my RA Ship for three months at NTU, Singapore. It takes one picture of subject and converts it into full 3D Model.
-  Responsibilities
-  Design, Development, Optimization
-  Managed the team of 3 people, including a researcher.
-  Development of iOS application
-  Implemented Number of Image processing & Neural network techniques
-  Technologies 
-  C, Objective C, STL, Multithreading, 
-  OpenGL, OpenGL ES, Open Scene Graph, GLSL,
-  MATLAB, SVN
-  
-  
