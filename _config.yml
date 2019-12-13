@@ -65,9 +65,7 @@ intro: |
   Masters degree in machine learning & AI from NUS.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-  AStar i2r, Singapore (1.5 years) – Software Design Engineer	
-  3DFM (A-Star i2r, 2011) 
+additionalinfo: | 
   AStar is the leading research organization in Singapore with researchers from all across the world. This job was driven by my RA Ship for three months at NTU, Singapore. It takes one picture of subject and converts it into full 3D Model.
   Responsibilities
   Design, Development, Optimization
@@ -75,7 +73,7 @@ additionalinfo: |
   Development of iOS application
   Implemented Number of Image processing & Neural network techniques
   Technologies 
-  C++, Objective C, STL, Multithreading, 
+  C, Objective C, STL, Multithreading, 
   OpenGL, OpenGL ES, Open Scene Graph, GLSL,
   MATLAB, SVN
   
