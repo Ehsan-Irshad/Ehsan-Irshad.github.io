@@ -26,6 +26,42 @@ skills:
  - REST
  - Technical Architecture
  - Machine learning
+ - MFC
+ - COM
+ - Sockets
+ - USB Interface
+ - Serial Port
+ - DLL
+ - SourceSafe
+ - Test Director
+ - TFS
+ - VSS
+ - SVN
+ - NTier
+ - Design Patterns
+ - MVC
+ - ORM
+ - UML
+ - RUP
+ - Rational Rose
+ - J2EE, Enterprise
+ - Object Oriented Programming
+ - OOP
+ - Software Development Life Cycle (SDLC)
+ - Design Patterns
+ - devops
+ - agile
+ - full stack
+ - Traceability
+ - CD Continuous Delivery
+ - CI Continuous Integration
+ - Continuous Testing
+ - Continuous Deployment
+ - Visual Studio
+ - Eclipse
+ - RubyMine
+ - VIM
+ - Vagrant
 
 #Work experience is required
 roles:
@@ -67,11 +103,11 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: | 
    Continuous Compliance (IBM, 2015 – Present) – Read More
-Automated compliance, security, resource & application management of Servers.
-Uptime 24/7 with implemented policies like ITCS, CDS. 
-Automated support of middleware like multiple Databases, Antivirus & Application Servers.
-This solution has over 300 key accounts each with more than 10,000 live servers.
-Responsibilities:
+   Automated compliance, security, resource & application management of Servers.
+   Uptime 24/7 with implemented policies like ITCS, CDS. 
+   Automated support of middleware like multiple Databases, Antivirus & Application Servers.
+   This solution has over 300 key accounts each with more than 10,000 live servers.
+   Responsibilities:
    	Owned Micro Services based architecture
    	Owned traceability matrix. 
    	Liaised with global stake holders including account focal to maintain the design & architecture.
@@ -85,6 +121,8 @@ Responsibilities:
    	Chef, Ruby, JS, Nginx, Rails, Ember, Cucumber
    	CD: Jenkins, Docker, UCD, Shell, powershell
    	OS: Windows, redhat, suse, Ubuntu, aix, linux-z
+   
+   <br><br>
    MEXICO Ciudad Segura (Thales, 2011 - 2014)  - Read More
    With development across three continents and multiple partners, it is currently known as a leading/well known Municipal Initiative for City Security Domain all across the world. In house development includes multiple modules (CAD, GIS, VMS, CFMS, DW, CWS, OPI) and interactions between them through Active MQ.
    Responsibilities:
@@ -112,27 +150,30 @@ Responsibilities:
    	C++, Objective C, STL, Multithreading, 
    	OpenGL, OpenGL ES, Open Scene Graph, GLSL,
    	MATLAB, SVN
-   Enggsol, Singapore (2 years) – Software Design Engineer	
-   Ultra Eye (Enggsol, 2008 - 2010) 
+   	
+   <br><br>	
+   Ultra Eye (Enggsol, 2008 - 2010) Enggsol, Singapore (2 years) – Software Design Engineer
    Client: https://www.dacon-inspection.com
    Technology: C++, STL, MFC, OpenGL, Ultrasound, Multi-Threading, Indexing 
    Responsibilities: Client Communication, Requirement gathering, Design, Development, Support
    This software interprets the Ultra Sound data coming from a hardware unit. This application was developed to detect the possible defects in the Oil/Gas pipelines. Software represented the data in A-Scan, B-Scan (2-D) & 3D. It highlights the possible defects also, if missed by Human eye. A normal data file software use to handle consists 1GB to 3GB data. 
-   RM-Reach (Enggsol, 2008 - 2009) 
+   <br><br>	
+   RM-Reach (Enggsol, 2008 - 2009) Enggsol, Singapore (2 years) – Software Design Engineer
    Project / Client: http://www.infinitytxt.com/aboutus.html, SUBWAY, BBC, GNC
    Technology: GSM, C++, JNI, Java, Web, SQL Server, Hibernate, Struts for MVC.
    Responsibilities: Design, Research & Development
    This software was responsible to send Bulk SMS/Emails as well as interactive. This application is running no of campaigns including SUBWAY promotional campaigns. High queuing and scheduling algorithm was written to send out 100,000 SMS per day.
-   Sstems, Pakistan (3 years) – Software Engineer	
-   Orthobyte (Systems, 2006 - 2008) 
+   <br><br>	
+   Orthobyte (Systems, 2006 - 2008) Systems, Pakistan (3 years) – Software Engineer
    Project / Client: http://ortho-byte.com
    Technology: MFC, OpenGL, MS Access, STL.
    Responsibilities: On-shore Communication, Design, Development
    In this project we have developed dental alignment & articulation. The project involved research and new algorithm development in the area of collision detection and 3D/visual data compression. 
-   Other Projects & Products	
+   <br>	<br>	
    ❖	RA Project (NTU, 2010)
    This project was purely Image processing of CT-Scan images given by the Singapore General Hospital. The aim was to calculate the percentage of FAT is one’s body. The full body Images were processed. In Earlier stages MATLAB was used, but for final release the whole code base was shifted into C\C++ for better performance.
    Advisor: Dr. Vitali Z.
+   <br>
    ❖	Community INTELLIGENCE (Thomson Reuters, 2010)
    Client: https://www.thomsonreuters.com/en.html
    Technology: C#,  ASP.NET, WPF, MS SQL Server, ETL & Warehousing.
