@@ -102,7 +102,7 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: | 
-   <BR><B>Continuous Compliance</B> – <a>Read More</a><BR>
+   <BR><B>❖	Continuous Compliance</B> – <a>Read More</a><BR>
    Automated compliance, security, resource & application management of Servers.
    Uptime 24/7 with implemented policies like ITCS, CDS. 
    Automated support of middleware like multiple Databases, Antivirus & Application Servers.
@@ -123,9 +123,9 @@ additionalinfo: |
    	OS: Windows, redhat, suse, Ubuntu, aix, linux-z
    
    <BR>
-   <BR><B>MEXICO Ciudad Segura - Read More</B><BR>
+   <BR><B>❖	MEXICO Ciudad Segura - Read More</B><BR>
    With development across three continents and multiple partners, it is currently known as a leading/well known Municipal Initiative for City Security Domain all across the world. In house development includes multiple modules (CAD, GIS, VMS, CFMS, DW, CWS, OPI) and interactions between them through Active MQ.
-   <B>Responsibilities:</B><BR>
+   <BR><B>Responsibilities:</B><BR>
    	Owned two Work Packages for GIS & CFMS module & led team of 4 core engineers.
    	Developed core functions & performance enhancements for LIMA product.
    	Drove GAP/Requirement Analysis, Design, Development, Performance for GIS package
@@ -139,7 +139,7 @@ additionalinfo: |
    	Server side include the ArcGIS ESRI Suite including web service publishing of Map Data
    
    <BR>
-   <BR><B>3DFM (A-Star i2r, 2011)</B><BR>
+   <BR><B>❖	3DFM (A-Star i2r, 2011)</B><BR>
    Project: https://www.a-star.edu.sg/Portals/76/3D%20FACE%20RECONSTRUCTION.pdf 
    AStar is the leading research organization in Singapore with researchers from all across the world. This job was driven by my RA Ship for three months at NTU, Singapore. It takes one picture of subject and converts it into full 3D Model.
    <BR><B>Responsibilities:</B><BR>
@@ -153,42 +153,42 @@ additionalinfo: |
    	MATLAB, SVN
    	
    <BR>	
-   <BR><B>Ultra Eye (Enggsol, 2008 - 2010)</B><BR>
+   <BR><B>❖	Ultra Eye (Enggsol, 2008 - 2010)</B><BR>
    Client: https://www.dacon-inspection.com
-   <BR><B>Technology Stack:</B><BR>
-   C++, STL, MFC, OpenGL, Ultrasound, Multi-Threading, Indexing 
    <BR><B>Responsibilities:</B><BR>
    Client Communication, Requirement gathering, Design, Development, Support
    This software interprets the Ultra Sound data coming from a hardware unit. This application was developed to detect the possible defects in the Oil/Gas pipelines. Software represented the data in A-Scan, B-Scan (2-D) & 3D. It highlights the possible defects also, if missed by Human eye. A normal data file software use to handle consists 1GB to 3GB data. 
-   
-   <BR><BR>
-   <B>RM-Reach (Enggsol, 2008 - 2009)</B><BR>
-   Project / Client: http://www.infinitytxt.com/aboutus.html, SUBWAY, BBC, GNC
    <BR><B>Technology Stack:</B><BR>
-   GSM, C++, JNI, Java, Web, SQL Server, Hibernate, Struts for MVC.
+   C++, STL, MFC, OpenGL, Ultrasound, Multi-Threading, Indexing 
+   
+   <BR>
+   <BR><B>❖	RM-Reach (Enggsol, 2008 - 2009)</B><BR>
+   Project / Client: http://www.infinitytxt.com/aboutus.html, SUBWAY, BBC, GNC
    <BR><B>Responsibilities:</B><BR>
    Design, Research & Development
    This software was responsible to send Bulk SMS/Emails as well as interactive. This application is running no of campaigns including SUBWAY promotional campaigns. High queuing and scheduling algorithm was written to send out 100,000 SMS per day.
-   
-   <BR><BR>	
-   <B>Orthobyte (Systems, 2006 - 2008) Systems, Pakistan (3 years) – Software Engineer</B><BR>
-   Project / Client: http://ortho-byte.com
    <BR><B>Technology Stack:</B><BR>
-   MFC, OpenGL, MS Access, STL.
+   GSM, C++, JNI, Java, Web, SQL Server, Hibernate, Struts for MVC.
+   
+   <BR>	
+   <BR><B>❖	Orthobyte (Systems, 2006 - 2008) Systems, Pakistan (3 years) – Software Engineer</B><BR>
+   Project / Client: http://ortho-byte.com
    <BR><B>Responsibilities:</B><BR>
    On-shore Communication, Design, Development
    In this project we have developed dental alignment & articulation. The project involved research and new algorithm development in the area of collision detection and 3D/visual data compression. 
-   
-   <BR><BR>
-   <B>❖	RA Project (NTU, 2010)</B><BR>
-   This project was purely Image processing of CT-Scan images given by the Singapore General Hospital. The aim was to calculate the percentage of FAT is one’s body. The full body Images were processed. In Earlier stages MATLAB was used, but for final release the whole code base was shifted into C\C++ for better performance.
-   Advisor: Dr. Vitali Z.
-   
-   <BR><BR>
-   <B>❖	Community INTELLIGENCE (Thomson Reuters, 2010)</B><BR>
-   Client: https://www.thomsonreuters.com/en.html
    <BR><B>Technology Stack:</B><BR>
-   C#,  ASP.NET, WPF, MS SQL Server, ETL & Warehousing.
+   MFC, OpenGL, MS Access, STL.
+   
+   <BR>
+   <BR><B>❖	Community INTELLIGENCE (Thomson Reuters, 2010)</B><BR>
+   Client: https://www.thomsonreuters.com/en.html
    <BR><B>Responsibilities:</B><BR>
    Design, Development
    This software was used to give trend analysis for Business Intelligence, Trade Flow and Buy/Sell side community management. The data came from 10 different sources. The web solution is responsible to show the Buy/Sell side communities, total trades in between them. Live chat room analysis, effects of story on a trade, commodities and different communities and Individual presence on all different Thomson Reuters platform. A special connection finder is being developed to show the degree of separation.
+   <BR><B>Technology Stack:</B><BR>
+   C#,  ASP.NET, WPF, MS SQL Server, ETL & Warehousing.
+
+   <BR>
+   <BR><B>❖	RA Project (NTU, 2010)</B><BR>
+   This project was purely Image processing of CT-Scan images given by the Singapore General Hospital. The aim was to calculate the percentage of FAT is one’s body. The full body Images were processed. In Earlier stages MATLAB was used, but for final release the whole code base was shifted into C\C++ for better performance.
+   Advisor: Dr. Vitali Z.
