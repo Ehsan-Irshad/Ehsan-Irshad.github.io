@@ -102,12 +102,12 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: | 
-   Continuous Compliance (IBM, 2015 – Present) – Read More
+   <b>Continuous Compliance (IBM, 2015 – Present)</b> – <a>Read More</a>
    Automated compliance, security, resource & application management of Servers.
    Uptime 24/7 with implemented policies like ITCS, CDS. 
    Automated support of middleware like multiple Databases, Antivirus & Application Servers.
    This solution has over 300 key accounts each with more than 10,000 live servers.
-   Responsibilities:
+   <b>Responsibilities:</b>
    	Owned Micro Services based architecture
    	Owned traceability matrix. 
    	Liaised with global stake holders including account focal to maintain the design & architecture.
@@ -117,7 +117,7 @@ additionalinfo: |
    	Developed core functionalities for the platform team & debugged critical issues in production.
    	Led the scrum of 14 engineers
    	Delivered new UI based on user empathetic design, visited users in Europe
-   Technology:
+   <b>Technology:</b>
    	Chef, Ruby, JS, Nginx, Rails, Ember, Cucumber
    	CD: Jenkins, Docker, UCD, Shell, powershell
    	OS: Windows, redhat, suse, Ubuntu, aix, linux-z
