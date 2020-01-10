@@ -68,23 +68,48 @@ roles:
  - title: Software Architect
    start: 2018
    end: Ongoing
-   employer: IBM
+   employer: IBM, SG
    description: Owned Microservice Architecture for Compliance services
  - title: Scrum Lead
    start: 2015
    end: 2018
-   employer: IBM
+   employer: IBM, SG
    description: Mentored a global team of 14 engineers
  - title: Staff Software Engineer
    start: 2014
    end: 2015
-   employer: IBM
+   employer: IBM, SG
    description: Lead engineer for the Safe Terminal (putty)
  - title: Work Package Leader
    start: 2013
    end: 2014
-   employer: Thales
+   employer: Thales, SG
    description: Owned the work package of GIS & CFMS for the Mexico Safe City Project
+ - title: Work Package Leader
+   start: 2013
+   end: 2014
+   employer: Thales, SG
+   description: Owned the work package of GIS & CFMS for the Mexico Safe City Project
+ - title: Software Design Engineer
+   start: 2011
+   end: 2013
+   employer: Thales, SG
+   description: GIS Lead engineer for the Mexico Safe City Project
+ - title: Applciation Developer
+   start: 2010
+   end: 2011
+   employer: AStar - I2R, SG
+   description: Converted the research project into iOS application
+ - title: Software Design Engineer
+   start: 2008
+   end: 2010
+   employer: Enggsol, SG
+   description: Lead OpenGL engineer, worked on USB/Com ports
+ - title: 
+   start: 2005
+   end: 2008
+   employer: Systems, PK
+   description: Lead OpenGL engineer, provided solution in orthodontics industry
 
 #Education is required
 education:
