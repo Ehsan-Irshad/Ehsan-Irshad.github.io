@@ -100,7 +100,7 @@ roles:
    end: 2010
    employer: Enggsol, SG
    description: Lead OpenGL engineer, worked on USB/Com ports
- - title: 
+ - title: Software Engineer
    start: 2005
    end: 2008
    employer: Systems, PK
@@ -108,14 +108,14 @@ roles:
 
 #Education is required
 education:
- - level: Master of Technology (Knowledge Engineering)
+ - level: Master of Technology (Knowledge Eng.)
    date: 2011
-   subject: Artificial Intelligence, Neural Networks, Fuzzy Logics, Case based reasoning, Natural Langugae Processing, Genetic algorithm
+   subject: AI, NN, NLP,Fuzzy Logic, Case based reasoning, Genetic algorithm
    school: NUS (National University of Singapore)
  - level: Bachelor of Computer Science (B.Sc.)
    date: 2005
    subject: Computer Science
-   school: FAST NUCES (National University of Computer& Emerging Sciences, Lahore Pakistan)
+   school: FAST, NUCES (National University of Computer & Emerging Sciences, Pakistan)
    
 intro: |
   14 years of global experience in development with focus on architecture & design.<BR>
