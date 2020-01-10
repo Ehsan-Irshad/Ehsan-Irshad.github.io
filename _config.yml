@@ -65,33 +65,37 @@ skills:
 
 #Work experience is required
 roles:
- - title: Architect
-   start: 2019
+ - title: Software Architect
+   start: 2018
    end: Ongoing
    employer: IBM
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   description: Owned Microservice Architecture for Compliance services
  - title: Scrum Lead
    start: 2015
-   end: 2019
+   end: 2018
    employer: IBM
-   description: Team of 14 engineers
+   description: Mentored a global team of 14 engineers
  - title: Staff Software Engineer
    start: 2014
    end: 2015
    employer: IBM
-   description: Test
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   description: Lead engineer for the Safe Terminal (putty)
+ - title: Work Package Leader
+   start: 2013
+   end: 2014
+   employer: Thales
+   description: Owned the work package of GIS & CFMS for the Mexico Safe City Project
 
 #Education is required
 education:
+ - level: Master of Technology (Knowledge Engineering)
+   date: 2011
+   subject: Artificial Intelligence, Neural Networks, Fuzzy Logics, Case based reasoning, Natural Langugae Processing, Genetic algorithm
+   school: NUS (National University of Singapore)
  - level: Bachelor of Computer Science (B.Sc.)
    date: 2005
-   subject: Artificial Intelligence and Computer Science
-   school: FAST NUCES (National University of Computer& Emerging Sciences Pakistan
+   subject: Computer Science
+   school: FAST NUCES (National University of Computer& Emerging Sciences, Lahore Pakistan)
    
 intro: |
   14 years of global experience in development with focus on architecture & design.<BR>
